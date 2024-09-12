@@ -195,8 +195,8 @@ const IET = () => {
             <section id='social'>
                 <h1 className='text-center mt-5'>SOCIALS</h1>
                 <p className='text-center'>Vist our social media pages for more information and get regular updates</p>
-                <h3 className='a'><i class="fa-brands fa-instagram"></i> : <a href="https://www.instagram.com/iet.gik/">https://www.instagram.com/iet.gik/</a></h3>
-                <h3 className='a'><i class="fa-brands fa-facebook"> : </i> <a href="https://www.facebook.com/iet.giki">https://www.facebook.com/iet.giki</a></h3>
+                <h3 className='a'><i class="fa-brands fa-instagram"></i> : <a href="https://www.instagram.com/iet.gik/">visit</a></h3>
+                <h3 className='a'><i class="fa-brands fa-facebook"> : </i> <a href="https://www.facebook.com/iet.giki">visit</a></h3>
             </section>
         </body>
     );
