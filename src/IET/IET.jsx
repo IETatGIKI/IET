@@ -17,9 +17,9 @@ const IET = () => {
 
     return (
         <body>
-            <section id='about-us'>
+            <section>
                 <div>
-                    <nav className="navbar navbar-expand-lg navbar-dark fixed-top d-flex">
+                    <nav className="navbar navbar-expand-lg navbar-dark fixed-top w-100">
                         <div>
                             <a className="navbar-brand" href="./Aboutus.jsx">
                                 <img className='logo' src={images} alt="Logo" />
@@ -109,7 +109,7 @@ const IET = () => {
                 </div>
             </section>
 
-            <section>
+            <section >
                 <div>
                     <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
                         <ol className="carousel-indicators">
@@ -141,27 +141,42 @@ const IET = () => {
                         </a>
                     </div>
                 </div>
+                <p id='about-us'></p>
             </section>
-
             <section >
-                <div>
-                    <div className="text-start mt-5" id='our-mission'>
-                        <h1 className='text-center' >Our Mission</h1>
-                        <p>The essential mission of IET is to act as a contact between an engineering student and the technology-driven world we live in nowadays. We look to empower a dynamic engagement within the designing field over and beyond the involvement of the classroom. Aside from our academic goals, we look to form a comfortable social environment for our individuals to encompass themselves with.</p>
+                <div className='animated'>
+                    <div className="text-start mt-5 animated">
+                        <h1 className='text-center animated'>ABOUT US</h1>
+                        <p className='animated'>The Institution of Engineering And Technology is one of the biggest multidisciplinary proficient designing institution within the world. Our legacy dates back to 1871, and nowadays the IET speaks to the designing calling in things of open concern and helps governments to create the open mindful of designing and innovative issues. The IET motivates to inform and impact the worldwide building community to design distant better and stronger world. As a different domestic over designing and innovation, IET offers information that makes a difference make way better sense of the world in arrange to unravel the challenges that matter. It's why IET is interestingly set to winner designing.
+                            IET Stands <section id='our-mission'></section> among the best social orders of GIK Established, Institution of Engineering And Technology has continuously been the pioneer of building greatness. However keeping in see the require of fun and encounter, IET brings to GIKI what no other society considers of: Differences! It is the as it were society that stands to speak to Commerce, Designing and Pharmaceutical as its constitution to GIKI.
+            
+                        </p>
                     </div>
                 </div>
             </section>
+            <section >
+                <div>
+                    <div className="text-start mt-5">
+                        <h1 className='text-center' >Our Mission</h1>
+                        <p>The essential mission of IET is to act as a contact between an engineering student and the technology-driven world we live in nowadays. We look to empower a dynamic engagement within the designing field over and beyond the involvement of the classroom. Aside from our academic goals, we look to form a comfortable social environment for our individuals to encompass themselves <section id='our-vision'></section> with.</p>
+            
+                    </div>
+                </div>
+                
+            </section>
 
-            <section id='our-vision'>
+            
+            <section >
                 <div>
                     <div className="text-start mt-5">
                         <h1 className='text-center'>Our Vision</h1>
-                        <p>To inspire, educate, and impact the worldwide designing community, and supporting mechanical development to meet desires of the society. We need to educate students not only about the resources available within but also about the numerous opportunities available outside the scope of academics.</p>
+            
+                        <p>To inspire, educate,<section id='our-events'></section> and impact the worldwide designing community, and supporting mechanical development to meet desires of the society. We need to educate students not only about the resources available within but also about the numerous opportunities available outside the scope of academics.</p>
                     </div>
                 </div>
             </section>
 
-            <section id='our-events'>
+            <section>
                 <div className='mt-5'>
                     <div className="text-start">
                         <h1 className='text-center'>Our Events</h1>
