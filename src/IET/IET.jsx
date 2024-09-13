@@ -21,7 +21,7 @@ const IET = () => {
                 <div>
                     <nav className="navbar navbar-expand-lg navbar-dark fixed-top w-100">
                         <div>
-                            <a className="navbar-brand" href="./Aboutus.jsx">
+                            <a className="navbar-brand" href="#">
                                 <img className='logo' src={images} alt="Logo" />
                             </a>
                         </div>
