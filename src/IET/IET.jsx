@@ -21,7 +21,7 @@ const IET = () => {
                 <div>
                     <nav className="navbar navbar-expand-lg navbar-dark fixed-top w-100">
                         <div>
-                            <a className="navbar-brand" href="#">
+                            <a className="navbar-brand" href="./Aboutus.jsx">
                                 <img className='logo' src={images} alt="Logo" />
                             </a>
                         </div>
@@ -147,8 +147,8 @@ const IET = () => {
                 <div className='animated'>
                     <div className="text-start mt-5 animated">
                         <h1 className='text-center animated'>ABOUT US</h1>
-                        <p className='animated'>The Institution of Engineering And Technology is one of the biggest multidisciplinary proficient designing institution within the world. Our legacy dates back to 1871, and nowadays the IET speaks to the designing calling in things of open concern and helps governments to create the open mindful of designing and innovative issues. The IET motivates to inform and impact the worldwide building community to design distant better and stronger world. As a different domestic over designing and innovation, IET offers information that makes a difference make way better sense of the world in arrange to unravel the challenges that matter. It's why IET is interestingly set to winner designing.
-                            IET Stands <section id='our-mission'></section> among the best social orders of GIK Established, Institution of Engineering And Technology has continuously been the pioneer of building greatness. However keeping in see the require of fun and encounter, IET brings to GIKI what no other society considers of: Differences! It is the as it were society that stands to speak to Commerce, Designing and Pharmaceutical as its constitution to GIKI.
+                        <p className='animated'> <section id='our-mission d-inline' ></section>The Institution of Engineering And Technology is one of the biggest multidisciplinary proficient designing institution within the world. Our legacy dates back to 1871, and nowadays the IET speaks to the designing calling in things of open concern and helps governments to create the open mindful of designing and innovative issues. The IET motivates to inform and impact the worldwide building community to design distant better and stronger world. As a different domestic over designing and innovation, IET offers information that makes a difference make way better sense of the world in arrange to unravel the challenges that matter. It's why IET is interestingly set to winner designing.
+                            IET Stands  among the best social orders of GIK Established, Institution of Engineering And Technology has continuously been the pioneer of building greatness. However keeping in see the require of fun and encounter, IET brings to GIKI what no other society considers of: Differences! It is the as it were society that stands to speak to Commerce, Designing and Pharmaceutical as its constitution to GIKI.
             
                         </p>
                     </div>
@@ -158,7 +158,7 @@ const IET = () => {
                 <div>
                     <div className="text-start mt-5">
                         <h1 className='text-center' >Our Mission</h1>
-                        <p>The essential mission of IET is to act as a contact between an engineering student and the technology-driven world we live in nowadays. We look to empower a dynamic engagement within the designing field over and beyond the involvement of the classroom. Aside from our academic goals, we look to form a comfortable social environment for our individuals to encompass themselves <section id='our-vision'></section> with.</p>
+                        <p>The essential mission of IET is to act as a contact between an engineering student and the technology-driven world we live in nowadays. We look to empower a dynamic engagement within the designing field over and beyond the involvement of the classroom. Aside from our academic goals, we look to form a comfortable social environment for our individuals to encompass themselves with. <section id='our-vision'></section></p>
             
                     </div>
                 </div>
@@ -171,7 +171,7 @@ const IET = () => {
                     <div className="text-start mt-5">
                         <h1 className='text-center'>Our Vision</h1>
             
-                        <p>To inspire, educate,<section id='our-events'></section> and impact the worldwide designing community, and supporting mechanical development to meet desires of the society. We need to educate students not only about the resources available within but also about the numerous opportunities available outside the scope of academics.</p>
+                        <p> <section id='our-events'></section>To inspire, educate, and impact the worldwide designing community, and supporting mechanical development to meet desires of the society. We need to educate students not only about the resources available within but also about the numerous opportunities available outside the scope of academics.</p>
                     </div>
                 </div>
             </section>
@@ -210,8 +210,8 @@ const IET = () => {
             <section id='social'>
                 <h1 className='text-center mt-5'>SOCIALS</h1>
                 <p className='text-center'>Vist our social media pages for more information and get regular updates</p>
-                <h3 className='a'><i class="fa-brands fa-instagram"></i> : <a href="https://www.instagram.com/iet.gik/">visit</a></h3>
-                <h3 className='a'><i class="fa-brands fa-facebook"> : </i> <a href="https://www.facebook.com/iet.giki">visit</a></h3>
+                <h3 className='text-center a'><i class="fa-brands fa-instagram"></i> : <a href="https://www.instagram.com/iet.gik/">iet.gik</a>  |  <a href="https://www.instagram.com/ietexclusive/">ietexclusive</a></h3>
+                <h3 className='text-center a'><i class="fa-brands fa-facebook"> : </i> <a href="https://www.facebook.com/iet.giki">IET On Campus GIKI</a></h3>
             </section>
         </body>
     );
