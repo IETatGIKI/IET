@@ -194,14 +194,8 @@ const IET = () => {
                         <div className="text-start">
                             <h1 className="text-start small-heading">2 : PATW</h1>
                             <p>The Ghulam Ishaq Khan Institute Of Engineering Science And Technology (GIKI) is proud to host the Present Around The World (PATW) competition, organized by the Institution of Engineering And Technology (IET). This esteemed event provides a unique opportunity for GIKI students to showcase their technical expertise, creativity, and presentation skills on a global stage. The PATW competition at GIKI is highly anticipated, attracting talented students from various disciplines who are eager to share their innovative ideas and projects. With a rigorous judging process and a supportive environment, PATW at GIKI fosters healthy competition, encourages collaboration, and recognizes outstanding talent in the field of engineering and technology.</p>
-                            <h3>Socials :</h3>
-                            <p>The Institution of Engineering and Technology (IET) goes beyond just technical events, also arranging a variety of social activities that cater to the diverse interests of its members. From concerts that strike a chord with music lovers to hiking trips that challenge the adventurous, the IET's social events offer a unique opportunity to unwind and connect with like-minded individuals. Additionally, theme dinners provide a chance to indulge in.</p>
-                            <h3>Concert:</h3>
-                            <p>IET at GIKI recently arranged a concert that was a huge success. It was a fantastic event where music lovers gathered to enjoy amazing performances. The concert was a great opportunity for students to take a break and have fun with friends.</p>
-                            <h3>Theme Dinner:</h3>
-                            <p>The theme dinner at GIKI, arranged by IET, was a fun event. There was delicious food and nice music. Everyone had a great time talking and laughing with friends. The event was a great way to unwind and socialize with fellow students and participants.</p>
-                            <h3 className='animated'>Hiking:</h3>
-                            <p className='animated'>IET took us on a fun hike at GIKI. The scenic views and good company made it a memorable day. They organized it recently, and it was fantastic! Everyone was in high spirits, and we all had a blast.</p>
+                            <h3>Activities :</h3>
+                            <p>The Institution of Engineering and Technology (IET) goes beyond technical events, offering a variety of activities such as <b>concerts</b> , <b>theme dinners</b> , and <b>hiking trips</b> . These events give members the chance to unwind, enjoy live performances, share meals with friends, and explore the outdoors, all while connecting with like-minded peers.</p>
                         </div>
                     </div>
                 </div>
